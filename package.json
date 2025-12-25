@@ -30,6 +30,7 @@
     "@angular/forms": "^20.3.0",
     "@angular/platform-browser": "^20.3.0",
     "@angular/router": "^20.3.0",
+    "@emailjs/browser": "^4.4.1",
     "@fortawesome/fontawesome-free": "^7.1.0",
     "gsap": "^3.13.0",
     "rxjs": "~7.8.0",
